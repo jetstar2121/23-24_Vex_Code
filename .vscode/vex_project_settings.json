@@ -1,0 +1,18 @@
+{
+	"extension": {
+		"version": "0.4.1",
+		"json": 1
+	},
+	"project": {
+		"name": "23-24_Skeleton_Code",
+		"description": "Skeleton Code and Testing for the 2023-2024 VEX Season",
+		"creationDate": "3/21/2023, 8:00:40 AM",
+		"platform": "V5",
+		"language": "cpp",
+		"slot": 1,
+		"sdkVersion": "V5_20220726_10_00_00",
+		"cpp": {
+			"includePath": []
+		}
+	}
+}
